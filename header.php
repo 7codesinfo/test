@@ -16,6 +16,9 @@
 <!--page specific css styles-->
 <link rel="stylesheet" href="<?php echo THEMEURL ; ?>assets/data-tables/bootstrap3/dataTables.bootstrap.css" />
 
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <!--siri css styles-->
 <link rel="stylesheet" href="<?php echo THEMEURL ; ?>css/siri.css">
 <link rel="stylesheet" href="<?php echo THEMEURL ; ?>css/siri-responsive.css">
