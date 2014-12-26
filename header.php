@@ -11,8 +11,6 @@
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/chosen-bootstrap/chosen.min.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/jquery-tags-input/jquery.tagsinput.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/bootstrap-fileupload/bootstrap-fileupload.css" />
-<link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/dropzone/css/dropzone.css" />
-<link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/bootstrap-datepicker/css/datepicker.css" />
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <!--base css styles-->
