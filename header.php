@@ -13,10 +13,12 @@
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/chosen-bootstrap/chosen.min.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/jquery-tags-input/jquery.tagsinput.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/bootstrap-fileupload/bootstrap-fileupload.css" />
+
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/dropzone/css/dropzone.css" />
 <link rel="stylesheet" type="text/css" href="<?php echo THEMEURL ; ?>assets/bootstrap-datepicker/css/datepicker.css" />
 <meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.02">
+
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <!--base css styles-->
@@ -25,6 +27,9 @@
 
 <!--page specific css styles-->
 <link rel="stylesheet" href="<?php echo THEMEURL ; ?>assets/data-tables/bootstrap3/dataTables.bootstrap.css" />
+
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!--siri css styles-->
 <link rel="stylesheet" href="<?php echo THEMEURL ; ?>css/siri.css">
